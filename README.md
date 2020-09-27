@@ -1,5 +1,5 @@
 ### .init
-Hi, I'm Canberk Duman. You can check my professional experiences on my LinkedIn [profile](https://www.linkedin.com/in/canberkduman/).
+Hi, I'm Canberk Duman(22 y.o.), GNU/Linux System Administrator at OYAS, Software Dev. and DevOps enthusiast. You can check my professional experiences on my LinkedIn [profile](https://www.linkedin.com/in/canberkduman/).
 
 ### .code
 I use GitHub my hobby projects or sharin' some examples with using and learning new technologies. Mostly use GitLab or my working company's private Git systems. 
