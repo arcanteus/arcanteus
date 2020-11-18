@@ -9,7 +9,7 @@ I'm writing on my personal website [canberkd.com](https://canberkd.com/).
 My Twitter is [@cnbrkdmn](https://twitter.com/cnbrkdmn).
 
 ### .contact
-You can fire me an e-mail at [canberk.duman@engineer.com](mailto:canberk.duman@engineer.com) or use on my website contact page's form [Contact Form](https://canberkd.com/contact-me/).
+You can fire me an e-mail at [canberkdmn@gmail.com](mailto:canberkdmn@gmail.com) or use on my website contact page's form [Contact Form](https://canberkd.com/contact-me/).
 
 
 <!--
